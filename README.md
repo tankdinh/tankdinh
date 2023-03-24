@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+    I’m currently working on perfecting my SQL, Excel, Tableau, Power BI, Python Skills.
+ 🌱 I’m currently learning as much as I could
 <!--
 **tankdinh/tankdinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
